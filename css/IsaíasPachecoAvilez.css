@@ -1,12 +1,39 @@
-body{
-    
+
+
+
+.body{
+
     background-color: aqua;
 }
 
-#descripcio {
-    
-    color: gray;
+.header {
+
+    background-color: gray;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 
 }
 
-.experiencia {color: black;}
+.experiencia {color: black;
+
+
+}
+.descripcion{
+    background-color: bisque;
+    padding: 20px;
+    margin: 30px; auto
+    width: 50%:
+    border-radius: 7px;
+}
+
+ .headerl1{
+background-color: blue;
+padding: 10px ;
+ }
+
+ .header img{
+    height: 100px;
+
+ }
